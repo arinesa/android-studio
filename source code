@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+  <TextView
+      android:id="@+id/student1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/mohamad_saiful_anwar_ste202102509"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:background="@color/black"
+      android:padding="8dp"
+      android:text="@string/luthfanisa_kurnianda_ste202202621"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student3"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/alfiani_permana_putri_ste202202635"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student4"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/aghitsni_fahmi_faaizani_ste202202630"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student5"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/ari_nesa_triani_ste202202636"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student6"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/ari_tri_utami_ste202202637"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student7"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/citra_atika_sari_ste202202641"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student8"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/dimas_prastyo_ste202202648"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student9"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/dwi_lustantiana_kurniasih_ste202202651"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student10"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/dwi_nurkhasanah_ste202202652"
+      android:textSize="18sp" />
+
+  <TextView
+      android:id="@+id/student11"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="8dp"
+      android:text="@string/eka_fitriana_ste202202653"
+      android:textSize="18sp" />
+</LinearLayout>
